@@ -1,2 +1,2 @@
 # Bank Transaction Analysis-Project
-Customer Transaction of Bank Analysis Proejct 
+Customer behavior analysis on the basis of transaction
